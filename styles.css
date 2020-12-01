@@ -1,0 +1,41 @@
+
+.dice {
+  display: inline-block;
+  margin-top: 3rem;
+
+}
+
+.word{
+  margin-top: 4rem;
+}
+
+body {
+  background-color: #393E46;
+  text-align: center;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Architects Daughter', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #4ECCA3;
+}
+
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #4ECCA3;
+  font-family: 'Noto Sans JP', sans-serif;
+
+}
