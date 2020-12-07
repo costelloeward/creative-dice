@@ -6,7 +6,7 @@ document.addEventListener("keydown", function(event) {
 
 });
 // Roll dice if screen is touched
-document.addEventListener("touchmove", function(event) {
+document.addEventListener("touchstart", function(event) {
   rollDice(event.touch);
   selectWord(event.touch);
 
