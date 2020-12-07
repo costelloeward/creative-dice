@@ -1,11 +1,14 @@
-// if (window.performance.navigation.type === 1) {
-//    // if the page has been refreshed, call the rollDice() function.
-//   rollDice();
-// }
+
 // Roll dice if key is pressed
 document.addEventListener("keydown", function(event) {
   rollDice(event.key);
   selectWord(event.key);
+
+});
+// Roll dice if screen is touched
+document.addEventListener("touchmove", function(event) {
+  rollDice(event.touch);
+  selectWord(event.touch);
 
 });
 
