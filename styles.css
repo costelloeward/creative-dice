@@ -15,9 +15,9 @@ body {
 }
 
 h1 {
-  margin: 30px;
+  margin: 2rem;
   font-family: 'Architects Daughter', cursive;
-  text-shadow: 5px 0 #232931;
+  text-shadow: 0.4rem 0 #232931;
   font-size: 6rem;
   color: #4ECCA3;
 }
