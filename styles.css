@@ -1,4 +1,9 @@
 
+body {
+  background-color: #393E46;
+  text-align: center;
+}
+
 .dice {
   display: inline-block;
   margin-top: 3rem;
@@ -7,11 +12,6 @@
 
 .word{
   margin-top: 4rem;
-}
-
-body {
-  background-color: #393E46;
-  text-align: center;
 }
 
 h1 {

@@ -4,7 +4,7 @@ document.addEventListener("keydown", function(event) {
   rollDice(event.key);
 
 });
-// Roll dice if screen is touched
+// Roll dice if screen is touched or mouse is clicked
 document.addEventListener("click", function(event) {
   rollDice(event.click);
 
