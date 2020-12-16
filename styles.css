@@ -6,25 +6,25 @@ body {
 
 .dice {
   display: inline-block;
-  margin-top: 3rem;
+  margin-top: 2vmax;
 
 }
 
 .word{
-  margin-top: 4rem;
+  margin-top: 3rem;
 }
 
 h1 {
-  /* margin: 2rem; */
+
   font-family: 'Architects Daughter', cursive;
   text-shadow: 0.4rem 0 #232931;
-  font-size: 6rem;
+  font-size: 10vmin;
   color: #4ECCA3;
 }
 
 
 p {
-  font-size: 2rem;
+  font-size: 5vmin;
   color: #4ECCA3;
   font-family: 'Noto Sans JP', sans-serif;
 }
